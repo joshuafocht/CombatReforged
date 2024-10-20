@@ -1,0 +1,6 @@
+name: CombatReforged
+version: 1.0.0
+main: io.github.joshuafocht.CombatReforged.CombatReforged
+description: A plugin that add a lot of combat focused changes
+authors: [jOSUser, CT_Assailant]
+api-version: '1.21.1'
